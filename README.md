@@ -1,5 +1,13 @@
 # UCHover
 
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=shinku.uchover">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/shinku.uchover?label=VS%20Code&logo=visualstudiocode&color=blue" />
+  </a>
+  <img src="https://img.shields.io/visual-studio-marketplace/i/shinku.uchover?label=Installs&color=brightgreen" />
+  <img src="https://img.shields.io/visual-studio-marketplace/r/shinku.uchover?label=Rating&color=yellow" />
+</p>
+
 UCHover is a VS Code extension that previews Unicode escape sequences in hover tooltips. It decodes supported escape forms directly from file text and shows the rendered character, its code point, and its Unicode name.
 
 ## What it does
