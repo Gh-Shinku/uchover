@@ -1,0 +1,8 @@
+{
+  "message": "Hello, world!",
+  "chinese": "\u4f60\u597d",
+  "japanese": "\u3053\u3093\u306b\u3061\u306f",
+  "emoji": "\ud83d\ude00",
+  "symbols": "\u2605\u2606\u2713",
+  "mixed": "Line1\u000aLine2\u000a\u4f60\u597d"
+}
