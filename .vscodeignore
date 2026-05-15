@@ -6,6 +6,9 @@ src/**
 .gitignore
 .yarnrc
 esbuild.js
+fixtures/**
+pnpm-lock.yaml
+pnpm-workspace.yaml
 **/tsconfig.json
 **/eslint.config.mjs
 **/*.map

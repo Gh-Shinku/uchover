@@ -73,12 +73,14 @@ Useful commands:
 pnpm run compile
 pnpm run watch
 pnpm test
+npm run vsix:package
 ```
 
 Notes:
 
 - `pnpm run compile` builds the bundled extension into `dist/`.
 - `pnpm test` runs the VS Code extension test host. The first run may download the VS Code test binary.
+- `npm run vsix:package` uses the project-local `@vscode/vsce` to build a VSIX and avoids relying on a global `vsce` install.
 
 ## Project layout
 
